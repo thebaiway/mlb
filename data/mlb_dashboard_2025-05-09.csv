@@ -1,0 +1,7 @@
+Team,Opponent,Pitcher,Pitcher Handedness,ERA (Last 3 Starts),WHIP (Last 3 Starts),Opponent Pitcher,Opponent Handedness,Opponent ERA (Last 3 Starts),Opponent WHIP (Last 3 Starts),Team RPG (L7),Team OPS (L7),Opp RPG (L7),Opp OPS (L7),Lean Call,Lean Reason
+DET,TEX,Tarik Skubal,L,3.78,1.2,Patrick Corbin,L,3.77,1.53,6.14,0.805,3.29,0.597,Lean ML (Normal),"ERA -0.01, WHIP +0.33, OPS +0.208, RPG +2.85"
+NYM,CHC,Clay Holmes,R,4.3,1.7,Jameson Taillon,R,6.06,1.35,6.43,0.804,5.57,0.778,Stay Away (Normal),"ERA +1.76, WHIP -0.35, OPS +0.026, RPG +0.86"
+CHC,,Jameson Taillon,,6.06,1.35,,,,,,,,,Stay Away (Normal),"ERA +nan, WHIP +nan, OPS +nan, RPG +nan"
+LAD,AZ,Roki Sasaki,L,4.15,2.08,Eduardo Rodriguez,L,4.86,1.2,7.57,0.925,4.0,0.726,Lean ML (Normal),"ERA +0.71, WHIP -0.88, OPS +0.199, RPG +3.57"
+SEA,TOR,Luis Castillo,R,2.12,1.12,Kevin Gausman,R,2.33,0.62,7.71,0.932,3.57,0.658,Lean ML (Moderate),"ERA +0.21, WHIP -0.50, OPS +0.274, RPG +4.14"
+NYY,ATH,Will Warren,R,5.14,1.14,Osvaldo Bido,R,3.0,1.6,6.14,0.866,3.71,0.676,Lean ML (Normal),"ERA -2.14, WHIP +0.46, OPS +0.190, RPG +2.43"
