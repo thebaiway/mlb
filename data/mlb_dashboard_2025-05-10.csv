@@ -1,0 +1,6 @@
+Team,Opponent,Pitcher,Pitcher Handedness,ERA (Last 3 Starts),WHIP (Last 3 Starts),Opponent Pitcher,Opponent Handedness,Opponent ERA (Last 3 Starts),Opponent WHIP (Last 3 Starts),Team RPG (L7),Team OPS (L7),Opp RPG (L7),Opp OPS (L7),Lean Call,Lean Reason
+NYY,ATH,Carlos Rodón,L,5.19,1.15,JP Sears,L,4.24,1.18,6.14,0.829,3.71,0.656,Lean ML (Normal),"ERA -0.95, WHIP +0.03, OPS +0.173, RPG +2.43"
+DET,TEX,Jack Flaherty,R,1.62,0.96,Jacob deGrom,R,4.3,1.3,6.14,0.805,3.14,0.569,Lean RL (Strong),"ERA +2.68, WHIP +0.34, OPS +0.236, RPG +3.00"
+NYM,CHC,Tylor Megill,,0.63,1.26,,,,,7.14,0.883,5.86,0.768,Lean ML (Moderate),"ERA +nan, WHIP +nan, OPS +0.115, RPG +1.28"
+LAD,AZ,Dustin May,R,1.06,0.76,Corbin Burnes,R,5.28,1.57,9.0,0.985,4.0,0.724,Lean RL (Strong),"ERA +4.22, WHIP +0.81, OPS +0.261, RPG +5.00"
+SEA,TOR,Logan Evans,R,Fewer than 3 Starts,Fewer than 3 Starts,Bowden Francis,R,3.71,1.06,7.29,0.884,3.43,0.661,Stay Away (Normal),
