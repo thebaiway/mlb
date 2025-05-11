@@ -46,7 +46,7 @@ try:
     ]
 
     # Add F5 Call & Reason columns if user selected F5 view
-    if bet_type == "F5 ML":
+    if bet_type == "F5":
         def generate_f5_call(row):
             try:
                 era = float(row["ERA (Last 3 Starts)"])
@@ -113,7 +113,7 @@ try:
         """)
 
     # 💡 F5 Cheat Sheet (only appears if F5 is selected)
-    if bet_type == "F5 ML":
+    if bet_type == "F5":
         with st.expander("🧠 F5 ML Cheat Sheet", expanded=False):
             st.markdown("""
             **F5 ML Betting Tips:**
