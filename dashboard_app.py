@@ -15,7 +15,7 @@ try:
     df = pd.read_csv(file_path)
 
     # Choose Bet Type: Full Game or F5 ML
-    bet_type = st.radio("Choose Bet Type View:", ["Full Game", "F5 ML"])
+    bet_type = st.radio("Choose Bet Type View:", ["Full Game", "F5"])
 
     # Optional: filter by team
     selected_team = st.selectbox("Filter by Team", ["All"] + sorted(df["Team"].unique().tolist()))
