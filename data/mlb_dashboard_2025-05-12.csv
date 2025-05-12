@@ -1,0 +1,5 @@
+Team,Opponent,Pitcher,Pitcher Handedness,ERA (Last 3 Starts),WHIP (Last 3 Starts),Opponent Pitcher,Opponent Handedness,Opponent ERA (Last 3 Starts),Opponent WHIP (Last 3 Starts),Team RPG (L7),Team OPS (L7),Opp RPG (L7),Opp OPS (L7),Lean Call,Lean Reason
+DET,BOS,Jackson Jobe,R,3.0,1.13,Tanner Houck,R,4.41,1.47,7.14,0.873,4.57,0.74,Lean RL (Moderate),"ERA +1.41, WHIP +0.34, OPS +0.133, RPG +2.57"
+NYM,PIT,David Peterson,R,2.7,1.38,Paul Skenes,R,3.44,0.82,7.14,0.899,2.14,0.624,Lean ML (Moderate),"ERA +0.74, WHIP -0.56, OPS +0.275, RPG +5.00"
+CHC,MIA,Colin Rea,R,1.35,1.12,Cal Quantrill,R,5.79,1.79,6.43,0.819,4.43,0.629,Lean RL (Moderate),"ERA +4.44, WHIP +0.67, OPS +0.190, RPG +2.00"
+SEA,NYY,Emerson Hancock,,7.71,1.71,,,,,5.86,0.755,5.0,0.752,Stay Away (Normal),"ERA +nan, WHIP +nan, OPS +0.003, RPG +0.86"

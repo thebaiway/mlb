@@ -259,3 +259,7 @@ Date,Team,Opponent,Pitcher,Opponent Pitcher,ERA (Last 3 Starts),WHIP (Last 3 Sta
 2025-05-11,DET,TEX,Reese Olson,Nathan Eovaldi,6.0,1.67,0.821,0.554,Lean ML (Normal)
 2025-05-11,LAD,AZ,Tony Gonsolin,Zac Gallen,Fewer than 3 Starts,Fewer than 3 Starts,0.921,0.714,Stay Away (Normal)
 2025-05-11,SEA,TOR,Bryce Miller,José Ureña,4.5,1.44,0.777,0.661,Stay Away (Normal)
+2025-05-12,DET,BOS,Jackson Jobe,Tanner Houck,3.0,1.13,0.873,0.74,Lean RL (Moderate)
+2025-05-12,NYM,PIT,David Peterson,Paul Skenes,2.7,1.38,0.899,0.624,Lean ML (Moderate)
+2025-05-12,CHC,MIA,Colin Rea,Cal Quantrill,1.35,1.12,0.819,0.629,Lean RL (Moderate)
+2025-05-12,SEA,NYY,Emerson Hancock,,7.71,1.71,0.755,0.752,Stay Away (Normal)
