@@ -263,3 +263,8 @@ Date,Team,Opponent,Pitcher,Opponent Pitcher,ERA (Last 3 Starts),WHIP (Last 3 Sta
 2025-05-12,NYM,PIT,David Peterson,Paul Skenes,2.7,1.38,0.899,0.624,Lean ML (Moderate)
 2025-05-12,CHC,MIA,Colin Rea,Cal Quantrill,1.35,1.12,0.819,0.629,Lean RL (Moderate)
 2025-05-12,SEA,NYY,Emerson Hancock,,7.71,1.71,0.755,0.752,Stay Away (Normal)
+2025-05-13,NYM,PIT,Kodai Senga,Mitch Keller,1.06,1.0,0.853,0.624,Lean RL (Strong)
+2025-05-13,CHC,MIA,Ben Brown,Valente Bellozo,4.8,1.6,0.819,0.662,Lean ML (Normal)
+2025-05-13,SEA,NYY,Bryan Woo,Max Fried,2.84,0.95,0.755,0.801,Stay Away (Normal)
+2025-05-13,NYY,,Max Fried,,1.56,1.21,,,Stay Away (Normal)
+2025-05-13,LAD,ATH,Landon Knack,,5.4,1.63,0.899,0.75,Lean ML (Normal)
