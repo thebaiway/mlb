@@ -1,6 +1,7 @@
 Team,Opponent,Pitcher,Pitcher Handedness,ERA (Last 3 Starts),WHIP (Last 3 Starts),Opponent Pitcher,Opponent Handedness,Opponent ERA (Last 3 Starts),Opponent WHIP (Last 3 Starts),Team RPG (L7),Team OPS (L7),Opp RPG (L7),Opp OPS (L7),Lean Call,Lean Reason
+DET,BOS,Tyler Holton,R,Fewer than 3 Starts,Fewer than 3 Starts,Brayan Bello,R,2.55,1.19,7.57,0.866,4.57,0.74,Stay Away (Normal),
 NYM,PIT,Kodai Senga,R,1.06,1.0,Mitch Keller,R,4.24,1.35,5.14,0.853,2.14,0.624,Lean RL (Strong),"ERA +3.18, WHIP +0.35, OPS +0.229, RPG +3.00"
 CHC,MIA,Ben Brown,R,4.8,1.6,Valente Bellozo,R,4.97,1.66,6.43,0.819,4.29,0.662,Lean ML (Normal),"ERA +0.17, WHIP +0.06, OPS +0.157, RPG +2.14"
 SEA,NYY,Bryan Woo,L,2.84,0.95,Max Fried,L,1.56,1.21,5.86,0.755,6.29,0.801,Stay Away (Normal),"ERA -1.28, WHIP +0.26, OPS -0.046, RPG -0.43"
 NYY,,Max Fried,,1.56,1.21,,,,,,,,,Stay Away (Normal),"ERA +nan, WHIP +nan, OPS +nan, RPG +nan"
-LAD,ATH,Landon Knack,,5.4,1.63,,,,,7.57,0.899,4.86,0.75,Lean ML (Normal),"ERA +nan, WHIP +nan, OPS +0.149, RPG +2.71"
+LAD,ATH,Landon Knack,L,5.4,1.63,Jeffrey Springs,L,4.2,1.47,7.57,0.899,4.86,0.75,Lean ML (Normal),"ERA -1.20, WHIP -0.16, OPS +0.149, RPG +2.71"
