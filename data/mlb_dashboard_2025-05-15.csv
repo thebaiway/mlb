@@ -1,0 +1,2 @@
+Team,Opponent,Pitcher,Pitcher Handedness,ERA (Last 3 Starts),WHIP (Last 3 Starts),Opponent Pitcher,Opponent Handedness,Opponent ERA (Last 3 Starts),Opponent WHIP (Last 3 Starts),Team RPG (L7),Team OPS (L7),Opp RPG (L7),Opp OPS (L7),Lean Call,Lean Reason
+LAD,ATH,Matt Sauer,R,Fewer than 3 Starts,Fewer than 3 Starts,Osvaldo Bido,R,3.0,1.6,5.57,0.767,4.71,0.747,Stay Away (Normal),"OPS +0.020, RPG +0.86, Offense Advantage Only"
