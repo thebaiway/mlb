@@ -1,0 +1,6 @@
+Team,Opponent,Pitcher,Pitcher Handedness,ERA (Last 3 Starts),WHIP (Last 3 Starts),Opponent Pitcher,Opponent Handedness,Opponent ERA (Last 3 Starts),Opponent WHIP (Last 3 Starts),Team RPG (L7),Team OPS (L7),Opp RPG (L7),Opp OPS (L7),Lean Call,Lean Reason
+NYY,NYM,Clarke Schmidt,R,5.52,1.43,Griffin Canning,R,4.2,1.53,6.14,0.781,4.86,0.784,Stay Away (Normal),"ERA -1.32, WHIP +0.10, OPS -0.003, RPG +1.28, Mixed Advantage"
+CHC,CWS,Matthew Boyd,R,1.59,1.18,Sean Burke,R,6.08,1.28,4.14,0.631,2.57,0.554,Lean ML (Moderate),"ERA +4.49, WHIP +0.10, OPS +0.077, RPG +1.57, Mixed Advantage"
+DET,TOR,Reese Olson,L,6.0,1.67,Eric Lauer,L,Fewer than 3 Starts,Fewer than 3 Starts,7.0,0.747,4.86,0.753,Stay Away (Normal),"OPS -0.006, RPG +2.14, Offense Advantage Only"
+SEA,SD,Emerson Hancock,R,7.71,1.71,Nick Pivetta,R,1.59,0.82,3.71,0.627,7.14,0.76,Fade ML (Strong),"ERA -6.12, WHIP -0.89, OPS -0.133, RPG -3.43, Mixed Advantage"
+LAD,LAA,Clayton Kershaw,L,Fewer than 3 Starts,Fewer than 3 Starts,Tyler Anderson,L,2.87,1.15,7.29,0.85,4.29,0.685,Stay Away (Normal),"OPS +0.165, RPG +3.00, Offense Advantage Only"
