@@ -1,0 +1,4 @@
+Team,Opponent,Pitcher,Pitcher Handedness,ERA (Last 3 Starts),WHIP (Last 3 Starts),Opponent Pitcher,Opponent Handedness,Opponent ERA (Last 3 Starts),Opponent WHIP (Last 3 Starts),Team RPG (L7),Team OPS (L7),Opp RPG (L7),Opp OPS (L7),Lean Call,Lean Reason
+NYY,TEX,Carlos Rodón,R,5.19,1.15,Nathan Eovaldi,R,2.29,0.66,7.14,0.893,4.43,0.713,Lean ML (Normal),"ERA -2.90, WHIP -0.49, OPS +0.180, RPG +2.71, Mixed Advantage"
+DET,CLE,Jack Flaherty,R,1.62,0.96,Tanner Bibee,R,4.4,1.47,7.29,0.742,3.29,0.627,Lean RL (Strong),"ERA +2.78, WHIP +0.51, OPS +0.115, RPG +4.00, Mixed Advantage"
+SEA,HOU,George Kirby,R,Fewer than 3 Starts,Fewer than 3 Starts,Lance McCullers Jr.,R,7.88,2.12,3.0,0.593,4.14,0.777,Stay Away (Normal),"OPS -0.184, RPG -1.14, Offense Advantage Only"
