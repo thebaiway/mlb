@@ -1,0 +1,6 @@
+Team,Opponent,Pitcher,Pitcher Handedness,ERA (Last 3 Starts),WHIP (Last 3 Starts),Opponent Pitcher,Opponent Handedness,Opponent ERA (Last 3 Starts),Opponent WHIP (Last 3 Starts),Team RPG (L7),Team OPS (L7),Opp RPG (L7),Opp OPS (L7),Lean Call,Lean Reason
+CHC,CIN,Drew Pomeranz,L,Fewer than 3 Starts,Fewer than 3 Starts,Nick Lodolo,L,0.96,0.7,7.57,0.907,3.86,0.735,Stay Away (Normal),"OPS +0.172, RPG +3.71, Offense Advantage Only"
+DET,KC,Tarik Skubal,R,3.78,1.2,Michael Wacha,R,4.2,1.4,2.71,0.594,2.86,0.668,Stay Away (Normal),"ERA +0.42, WHIP +0.20, OPS -0.074, RPG -0.15, Mixed Advantage"
+NYM,COL,Kodai Senga,R,1.06,1.0,Antonio Senzatela,R,5.14,2.14,3.0,0.602,4.14,0.714,Lean ML (Moderate),"ERA +4.08, WHIP +1.14, OPS -0.112, RPG -1.14, Mixed Advantage"
+SEA,MIN,Bryce Miller,R,4.5,1.44,Bailey Ober,R,7.11,1.74,4.0,0.708,3.57,0.675,Lean ML (Normal),"ERA +2.61, WHIP +0.30, OPS +0.033, RPG +0.43, Mixed Advantage"
+LAD,NYY,Landon Knack,R,5.4,1.63,Will Warren,R,5.14,1.14,4.86,0.635,5.0,0.782,Stay Away (Normal),"ERA -0.26, WHIP -0.49, OPS -0.147, RPG -0.14, Mixed Advantage"
