@@ -1,0 +1,3 @@
+Team,Opponent,Pitcher,Pitcher Handedness,ERA (Last 3 Starts),WHIP (Last 3 Starts),Opponent Pitcher,Opponent Handedness,Opponent ERA (Last 3 Starts),Opponent WHIP (Last 3 Starts),Team RPG (L7),Team OPS (L7),Opp RPG (L7),Opp OPS (L7),Lean Call,Lean Reason
+DET,CWS,Jack Flaherty,R,1.62,0.96,Jonathan Cannon,R,5.79,1.64,3.57,0.599,3.71,0.67,Lean ML (Strong),"ERA +4.17, WHIP +0.68, OPS -0.071, RPG -0.14, Mixed Advantage"
+LAD,NYM,Dustin May,R,1.06,0.76,Paul Blackburn,R,Fewer than 3 Starts,Fewer than 3 Starts,4.14,0.627,3.0,0.637,Stay Away (Normal),"OPS -0.010, RPG +1.14, Offense Advantage Only"
