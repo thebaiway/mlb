@@ -1,0 +1,6 @@
+Team,Opponent,Pitcher,Pitcher Handedness,ERA (Last 3 Starts),WHIP (Last 3 Starts),Opponent Pitcher,Opponent Handedness,Opponent ERA (Last 3 Starts),Opponent WHIP (Last 3 Starts),Team RPG (L7),Team OPS (L7),Opp RPG (L7),Opp OPS (L7),Lean Call,Lean Reason
+DET,CWS,Casey Mize,R,2.6,1.04,Sean Burke,R,6.08,1.28,3.0,0.595,4.71,0.735,Lean ML (Moderate),"ERA +3.48, WHIP +0.24, OPS -0.140, RPG -1.71, Mixed Advantage"
+SEA,BAL,Bryan Woo,R,2.84,0.95,Zach Eflin,R,3.0,0.83,3.29,0.674,4.29,0.706,Stay Away (Normal),"ERA +0.16, WHIP -0.12, OPS -0.032, RPG -1.00, Mixed Advantage"
+LAD,NYM,Landon Knack,L,5.4,1.63,David Peterson,L,2.7,1.38,5.43,0.724,4.14,0.739,Stay Away (Normal),"ERA -2.70, WHIP -0.25, OPS -0.015, RPG +1.29, Mixed Advantage"
+CHC,WSH,Drew Pomeranz,R,Fewer than 3 Starts,Fewer than 3 Starts,Jake Irvin,R,5.62,1.5,5.57,0.754,4.57,0.684,Stay Away (Normal),"OPS +0.070, RPG +1.00, Offense Advantage Only"
+NYY,CLE,Max Fried,R,1.56,1.21,Slade Cecconi,R,5.28,1.43,4.29,0.698,4.43,0.631,Lean ML (Moderate),"ERA +3.72, WHIP +0.22, OPS +0.067, RPG -0.14, Mixed Advantage"
